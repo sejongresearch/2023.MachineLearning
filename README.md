@@ -34,7 +34,10 @@
 | 5 | 로지스틱회귀 이론 | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B5%EC%A3%BC%EC%B0%A8%5D%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%20%EC%9D%B4%EB%A1%A0.pdf)| 2022.03.28 | [Youtube](https://youtu.be/q0n9FG_I8lQ) |  | |
 | 5 | 로지스틱회귀 실습 | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B5%EC%A3%BC%EC%B0%A8%5D%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%20%EC%8B%A4%EC%8A%B5.pdf)| 2022.03.28 | [Youtube](https://youtu.be/yFVfj211q3Q) |  | |
 | * | 실습 수업*	  | [과제설명서](https://github.com/sejongresearch/2023.MachineLearning/blob/main/HW/5%EC%A3%BC%EC%B0%A8/Readme.md) | 2022.03.28 |  | 실습과제(4) 마감 (4/3) | |
-
+| 6 | 판별분석 이론 | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B6%EC%A3%BC%EC%B0%A8%5D%20%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D%20%EC%9D%B4%EB%A1%A0.pdf)| 2022.04.04 | [Youtube](https://youtu.be/DKQJJnV5194) |  | |
+| 6 | 판별분석 이론 | | 2022.04.04 | [Youtube](https://youtu.be/OUdUk8KPVk4) |  | |
+| 6 | 판별분석 실습 | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B6%EC%A3%BC%EC%B0%A8%5D%20%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%8A%B5.pdf), [코드](https://www.kaggle.com/yukyungchoi/2022-ml-w6)| 2022.04.04 | [Youtube](https://youtu.be/nEg_8l_BpZc) |  | |
+| * | 실습 수업*  | [과제설명서](https://github.com/sejongresearch/2023.MachineLearning/blob/main/HW/6%EC%A3%BC%EC%B0%A8/Readme.md) | 2022.04.04 |  | 실습과제(5) 마감 (4/10) | |
 ## 중간고사/기말고사 일정
 - 중간고사: 4월 18일 7시-10시 
 - 기말고사: 6월 13일 7시-10시
