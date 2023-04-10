@@ -38,6 +38,13 @@
 | 6 | 판별분석 이론 | | 2022.04.04 | [Youtube](https://youtu.be/OUdUk8KPVk4) |  | |
 | 6 | 판별분석 실습 | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B6%EC%A3%BC%EC%B0%A8%5D%20%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%8A%B5.pdf), [코드](https://www.kaggle.com/yukyungchoi/2022-ml-w6)| 2022.04.04 | [Youtube](https://youtu.be/nEg_8l_BpZc) |  | |
 | * | 실습 수업*  | [과제설명서](https://github.com/sejongresearch/2023.MachineLearning/blob/main/HW/6%EC%A3%BC%EC%B0%A8/Readme.md) | 2022.04.04 |  | 실습과제(5) 마감 (4/10) | |
+| 7 | 데이터전처리 (1) | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B7%EC%A3%BC%EC%B0%A8%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC%20%EC%9D%B4%EB%A1%A0.pdf) | 2022.05.16 | [Youtube](https://youtu.be/uguE9aodEy4) |  | |
+| 7 | 데이터전처리 (2)  | [코드](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B7%EC%A3%BC%EC%B0%A8%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC%20%EC%9D%B4%EB%A1%A0.ipynb) | 2022.05.16 | [Youtube](https://youtu.be/FzRc0tZsRBo) |  | |
+| 7 | 데이터전처리 (3) |  | 2022.05.25 | [Youtube](https://youtu.be/9JsOVgU2ez0) |  | |
+| 7 | 데이터전처리 (4) |  | 2022.05.25 | [Youtube](https://youtu.be/Gz-7Nec4gUo) |  | |
+
+
+
 ## 중간고사/기말고사 일정
 - 중간고사: 4월 18일 7시-10시 
 - 기말고사: 6월 13일 7시-10시
