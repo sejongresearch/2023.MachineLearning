@@ -42,7 +42,7 @@
 | 7 | 데이터전처리 (2)  | [코드](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B7%EC%A3%BC%EC%B0%A8%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC%20%EC%9D%B4%EB%A1%A0.ipynb) | 2022.04.11 | [Youtube](https://youtu.be/FzRc0tZsRBo) |  | |
 | 7 | 데이터전처리 (3) | [실습](https://www.kaggle.com/t/1b1e86eabe8f403f86fdac2cd52c3525) | 2022.04.11 | [Youtube](https://youtu.be/9JsOVgU2ez0) |  | |
 | 7 | 데이터전처리 (4) | [실습](https://www.kaggle.com/t/62c94dd03c5243529c5a6c219890cde7) | 2022.04.11 | [Youtube](https://youtu.be/Gz-7Nec4gUo) |  | |
-| 8 | 중간고사 | | 2023.04.18 | 오후7시-오후10시 |  | |
+| 8 | 중간고사 | [실습 문제](https://github.com/sejongresearch/2023.MachineLearning/tree/main/HW/9%EC%A3%BC%EC%B0%A8) | 2023.04.18 | 오후7시-오후10시 |  | |
 | 9 | 의사결정나무 이론 | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B9%EC%A3%BC%EC%B0%A8%5D%20%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4_%EC%9D%B4%EB%A1%A0.pdf) | 2022.04.25 | [Youtube](https://youtu.be/XhstnaJl56s) |  | |
 | 9 | 의사결정나무 이론 | | 2022.04.25 | [Youtube](https://youtu.be/DmROZCJN-ow) |  | |
 | 9 | 의사결정나무 이론 | | 2022.04.25 | [Youtube](https://youtu.be/aGwfaTaD5qs) |  | |
