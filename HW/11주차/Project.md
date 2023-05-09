@@ -20,14 +20,14 @@
 
 ## 프로젝트 문제
 #### Feature Engineering 
-- [1D 텍스트 데이터]  [한국어 영화 리뷰 분류하기](https://www.kaggle.com/t/ff80742f87a3452bb6d2c42fe34d5c01)
-- [2D 영상 데이터]    [2D 이미지 데이터를 활용한 이미지 분류](https://www.kaggle.com/t/7f5138bd8b4a43d7a67ef783c8be9f80)
-- [3D 영상 데이터]    [3D 데이터를 활용한 물체 분류](https://www.kaggle.com/t/62c842cad02f427ba7a1a5cfc3062ca9)
-- [1D 음성 데이터]    [음악 장르 분류](https://www.kaggle.com/t/6345798952f44f29a9bfccde966b4c26)
+- [1D 텍스트 데이터]  [한국어 영화 리뷰 분류하기]()
+- [2D 영상 데이터]    [2D 이미지 데이터를 활용한 이미지 분류]()
+- [3D 영상 데이터]    [3D 데이터를 활용한 물체 분류]()
+- [1D 음성 데이터]    [음악 장르 분류]()
 
 #### Algorithm Implementation
-- [선형모델] [Code]()
-- [앙상블] [Code]()
+- [선형모델] [선형회귀, 선형분류]()
+- [앙상블] [의사결정나무, 랜덤포레스트]()
 
 ## 배점 방식
 - 총 20점 만점
