@@ -53,7 +53,7 @@
 | 11 | SVM 이론 | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B11%EC%A3%BC%EC%B0%A8%5D%20SVM_%EC%9D%B4%EB%A1%A0.pdf) | 2023.05.09 | [Youtube](https://youtu.be/_ENOPWRNKnI) |  | |
 | 11 | SVM 이론 | | 2023.05.09 | [Youtube](https://youtu.be/eTjo2n1jqFQ) |  | |
 | 11 | SVM 실습 | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B11%EC%A3%BC%EC%B0%A8%5D%20SVM_%EC%8B%A4%EC%8A%B5.pdf) | 2023.05.09 | [Youtube](https://youtu.be/JAizhkzU77Q) |  | |
-| 11 | 텀프로젝트 | [PDF](), [설명서]() | 2023.05.11 |  |  |  |
+| 11 | 텀프로젝트 | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B11%EC%A3%BC%EC%B0%A8%5D%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%84%A4%EB%AA%85.pdf), [설명서](https://github.com/sejongresearch/2023.MachineLearning/blob/main/HW/11%EC%A3%BC%EC%B0%A8/Project.md) | 2023.05.11 |  |  | 최종마감 (6/5) |
 
 ## 중간고사/기말고사 일정
 - 중간고사: 4월 18일 7시-10시 
