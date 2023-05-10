@@ -24,8 +24,8 @@
 - [1D 음성 데이터]    [음악 장르 분류](https://www.kaggle.com/t/6345798952f44f29a9bfccde966b4c26)
 
 #### Algorithm Implementation
-- [선형모델] [경사하강법 구현](https://drive.google.com/file/d/1kKCaD6QY4isWVbLpZ03bBQgz49O9wDDO/view?usp=sharing)
-- [앙상블] [의사결정나무 구현]()
+- [선형모델] [경사하강법 구현](https://github.com/sejongresearch/2023.MachineLearning/blob/main/HW/11%EC%A3%BC%EC%B0%A8/%5BTP1%5D%5BLinear_Models%5DSkeleton.ipynb)
+- [앙상블] [의사결정나무 구현](https://github.com/sejongresearch/2023.MachineLearning/blob/main/HW/11%EC%A3%BC%EC%B0%A8/%5BTP2%5D%5Bensemble%5DSkeleton.ipynb)
 
 ## 프로젝트 마감
 - 리더보드 마감: 6월 4일 (일) 오후 11시 59분 
