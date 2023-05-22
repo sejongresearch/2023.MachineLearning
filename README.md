@@ -58,6 +58,9 @@
 | 12 | 군집화 이론 | | 2022.05.16 | [Youtube](https://youtu.be/HWQEuBvVFM8) |  | |
 | 12 | 군집화 이론 | | 2022.05.16 | [Youtube](https://youtu.be/aSID9qMbV5s) |  | |
 | 12 | 군집화 실습 | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B12%EC%A3%BC%EC%B0%A8%5D%EA%B5%B0%EC%A7%91%ED%99%94_%EC%8B%A4%EC%8A%B5.pdf) | 2022.05.16 | [Youtube](https://youtu.be/9JWv7P7G1kE) |  | |
+| 13 | 차원축소 이론 |[PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B13%EC%A3%BC%EC%B0%A8%5D%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C_%EC%9D%B4%EB%A1%A0.pdf) | 2022.05.23 | [Youtube](https://youtu.be/Zyh2ToV1MXk) |  | |
+| 13 | 차원축소 이론 | | 2022.05.23 | [Youtube](https://youtu.be/BbMUg41ceTc) |  | |
+| 13 | 차원축소 실습 |[PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B13%EC%A3%BC%EC%B0%A8%5D%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C_%EC%8B%A4%EC%8A%B5.pdf) | 2022.05.23 | [Youtube](https://youtu.be/7mA4QfchQi8) |  | |
 
 ## 중간고사/기말고사 일정
 - 중간고사: 4월 18일 7시-10시 
