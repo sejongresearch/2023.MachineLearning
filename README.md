@@ -63,6 +63,7 @@
 | 13 | 차원축소 실습 |[PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B13%EC%A3%BC%EC%B0%A8%5D%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C_%EC%8B%A4%EC%8A%B5.pdf) | 2022.05.23 | [Youtube](https://youtu.be/7mA4QfchQi8) |  | |
 | 14 | 교차검증(이론) | [PDF](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B14%EC%A3%BC%EC%B0%A8%5D%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D.pdf) | 2022.05.30 | [Youtube](https://youtu.be/ZXFsO9a88l4) |  | |
 | 14 | 교차검증(실습) | [파일](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/UniversalBank.csv) | 2022.05.30 | [Youtube](https://youtu.be/JldMstX7jrc) |  | |
+| 14 | 기말고사 | [문제](https://github.com/sejongresearch/2023.MachineLearning/blob/main/LectureNote/exam.md) | 2022.06.01 |  |  | |
 
 ## 중간고사/기말고사 일정
 - 중간고사: 4월 18일 7시-10시 
